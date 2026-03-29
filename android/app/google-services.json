@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "692291790866",
+    "project_id": "moneypal-69",
+    "storage_bucket": "moneypal-69.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692291790866:android:3f0ffce56a0eaffc4410cb",
+        "android_client_info": {
+          "package_name": "urva.moneypal.com.moneypal_folder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD20cKlb23FTtpSbgXdUOEJcL7psagawpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
