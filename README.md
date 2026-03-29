@@ -37,7 +37,7 @@ MoneyPal is a Flutter-based expense splitting application that helps users manag
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/yourusername/MoneyPal.git
+git clone https://github.com/urva2512/MoneyPal.git
 cd MoneyPal
 flutter pub get
 flutter run
@@ -65,7 +65,7 @@ lib/
  ├── models/
  ├── screens/
  ├── services/
- ├── widgets/
+ ├── theme/
 ```
 
 ---
